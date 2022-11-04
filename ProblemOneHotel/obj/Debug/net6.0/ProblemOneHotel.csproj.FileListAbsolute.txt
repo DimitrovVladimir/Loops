@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\bin\Debug\net6.0\ProblemOneHotel.exe
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\bin\Debug\net6.0\ProblemOneHotel.deps.json
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\bin\Debug\net6.0\ProblemOneHotel.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\bin\Debug\net6.0\ProblemOneHotel.dll
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\bin\Debug\net6.0\ProblemOneHotel.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.dll
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\refint\ProblemOneHotel.dll
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ProblemOneHotel.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\ProblemOneHotel\obj\Debug\net6.0\ref\ProblemOneHotel.dll

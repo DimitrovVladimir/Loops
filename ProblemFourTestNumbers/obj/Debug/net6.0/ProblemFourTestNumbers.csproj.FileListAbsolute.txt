@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\bin\Debug\net6.0\ProblemFourTestNumbers.exe
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\bin\Debug\net6.0\ProblemFourTestNumbers.deps.json
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\bin\Debug\net6.0\ProblemFourTestNumbers.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\bin\Debug\net6.0\ProblemFourTestNumbers.dll
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\bin\Debug\net6.0\ProblemFourTestNumbers.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.dll
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\refint\ProblemFourTestNumbers.dll
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ProblemFourTestNumbers.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\ProblemFourTestNumbers\obj\Debug\net6.0\ref\ProblemFourTestNumbers.dll

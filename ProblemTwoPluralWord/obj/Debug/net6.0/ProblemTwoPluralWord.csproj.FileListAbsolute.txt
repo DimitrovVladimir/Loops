@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\bin\Debug\net6.0\ProblemTwoPluralWord.exe
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\bin\Debug\net6.0\ProblemTwoPluralWord.deps.json
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\bin\Debug\net6.0\ProblemTwoPluralWord.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\bin\Debug\net6.0\ProblemTwoPluralWord.dll
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\bin\Debug\net6.0\ProblemTwoPluralWord.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.dll
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\refint\ProblemTwoPluralWord.dll
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ProblemTwoPluralWord.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\ProblemTwoPluralWord\obj\Debug\net6.0\ref\ProblemTwoPluralWord.dll

@@ -1,0 +1,15 @@
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\bin\Debug\net6.0\ProblemThreeCake.exe
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\bin\Debug\net6.0\ProblemThreeCake.deps.json
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\bin\Debug\net6.0\ProblemThreeCake.runtimeconfig.json
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\bin\Debug\net6.0\ProblemThreeCake.dll
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\bin\Debug\net6.0\ProblemThreeCake.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.csproj.AssemblyReference.cache
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.AssemblyInfoInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.AssemblyInfo.cs
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.dll
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\refint\ProblemThreeCake.dll
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.pdb
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ProblemThreeCake.genruntimeconfig.cache
+C:\Users\Admin\source\QualityAssurance\ProblemThreeCake\obj\Debug\net6.0\ref\ProblemThreeCake.dll
